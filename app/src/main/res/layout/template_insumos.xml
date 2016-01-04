@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/temp_img_insumos"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/altura100"
+        android:src="#aa060f"
+
+        />
+    <TextView
+        android:id="@+id/temp_nombre_insumos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/nom_insumo"
+        android:textColor="#ffffff"
+        android:textSize="@dimen/padding30"
+        android:padding="@dimen/small"
+        android:layout_alignBottom="@id/temp_img_insumos"
+        />
+    <TextView
+        android:id="@+id/tem_costo_insumos"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/padding30"
+        android:background="#94060f"
+        android:text="@string/valor_costo"
+        android:textColor="#ffffff"
+        android:gravity="left"
+        android:layout_below="@+id/temp_nombre_insumos"
+        android:layout_marginLeft="@dimen/bordepequeno"
+        />
+
+</RelativeLayout>

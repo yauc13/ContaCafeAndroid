@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">ContaCafe</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="login_txt">Session</string>
+    <string name="login_btn">Login</string>
+    <string name="title_activity_root">RootActivity</string>
+    <string name="login_usr">User</string>
+    <string name="login_pass">Password</string>
+    <string name="main_btn">Logout</string>
+
+    <string-array name="arrayMenuopciones">
+        <item>Workers</item>
+        <item>Insumos</item>
+
+    </string-array>
+
+
+
+
+    <string name="title_activity_add">Agregar Finca</string>
+    <string name="add_name">Nombre Finca</string>
+    <string name="btn">Save</string>
+    <string name="title_activity_worker">WorkerActivity</string>
+    <string name="title_activity_add_worker">AddWorkerActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_view_worker">ViewWorkerActivity</string>
+    <string name="title_activity_week">WeekActivity</string>
+    <string name="title_activity_view_week">ViewWeekActivity</string>
+    <string name="title_activity_add_week">AddWeekActivity</string>
+    <string name="title_activity_view_insumos">ViewInsumosActivity</string>
+    <string name="title_activity_add_insumos">AddInsumosActivity</string>
+    <string name="title_activity_view_results">ViewResultsActivity</string>
+    <string name="nom_insumo">Insumo</string>
+    <string name="valor_costo">cost</string>
+    <string name="numero_seman">week number</string>
+    <string name="fecha_sem">date</string>
+    <string name="name">name</string>
+    <string name="nombre_insumo">name</string>
+    <string name="costo_insumo">Cost</string>
+    <string name="agregar">Add</string>
+    <string name="nombre_semana">Name Week</string>
+    <string name="kilos_domingo">kilos sunday</string>
+    <string name="kilos_sabado">kilos saturday</string>
+    <string name="kilos_viernes">kilos friday</string>
+    <string name="kilos_jueves">kilos thursday</string>
+    <string name="kilos_miercoles">kilos wednesday</string>
+    <string name="kilos_martes">kilos tuesday</string>
+    <string name="kilos_lunes">kilos monday</string>
+    <string name="nombre_trabajador">name worker</string>
+    <string name="login">LOGIN</string>
+    <string name="select_menu">item select</string>
+    <string name="menu_editar">Edit</string>
+    <string name="menu_eliminar">Delete</string>
+    <string name="aceptar">ok</string>
+    <string name="cancelar">Cancel</string>
+    <string name="deseaeliminar">would you like delete?</string>
+    <string name="titulo_eliminar">Delete</string>
+    <string name="cargando">Loading...</string>
+</resources>
